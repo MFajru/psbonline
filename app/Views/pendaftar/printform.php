@@ -1,0 +1,21 @@
+<p> Nama Lengkap : <?= $datapendaftar['nama_lengkap']; ?></p>
+<p> Jenis Kelamin : <?= $datapendaftar['jenis_kelamin']; ?></p>
+<p> NISN : <?= $datapendaftar['nisn']; ?></p>
+<p> NIK/ No. KITAS : <?= $datapendaftar['nik']; ?></p>
+<p> Tempat Lahir : <?= $datapendaftar['tempat_lahir']; ?></p>
+<p> Tanggal Lahir : <?= $datapendaftar['tanggal_lahir']; ?></p>
+<p> No. Registrasi Akta Lahir : <?= $datapendaftar['reg_akta_lahir']; ?></p>
+<p> Agama : <?= $datapendaftar['agama']; ?></p>
+<p> Warga Negara : <?= $datapendaftar['warga_negara']; ?></p>
+<p> Alamat Jalan : <?= $datapendaftar['alamat_jalan']; ?></p>
+<p> RT : <?= $datapendaftar['rt']; ?></p>
+<p> RW : <?= $datapendaftar['rw']; ?></p>
+<p> Dusun : <?= $datapendaftar['dusun']; ?></p>
+<p> Kelurahan : <?= $datapendaftar['kelurahan']; ?></p>
+<p> Kecamatan : <?= $datapendaftar['kecamatan']; ?></p>
+<p> Kota : <?= $datapendaftar['kota']; ?></p>
+<p> Provinsi : <?= $datapendaftar['provinsi']; ?></p>
+<p> Kode Pos : <?= $datapendaftar['kode_pos']; ?></p>
+<p> Nilai Matematika : <?= $datapendaftar['nilai_matematika']; ?></p>
+<p> Nilai Bahasa Inggris : <?= $datapendaftar['nilai_binggris']; ?></p>
+<p> Foto : <img src="/uploads/<?= $datapendaftar['gambar']; ?>" alt="gambar" width="250px" height="150px"></p>

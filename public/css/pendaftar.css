@@ -1,0 +1,47 @@
+.title-home {
+  margin-top: 80px;
+}
+
+.subtitle-home {
+  margin-bottom: 30px;
+}
+
+.title-about {
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+.img-container-pendaftar {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.paragraph-home {
+  text-align: justify;
+}
+
+.btn-home {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.container-form {
+  margin-top: 80px;
+}
+
+.h5-form {
+  margin-bottom: 40px;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
